@@ -1,0 +1,17 @@
+bin/
+obj/
+
+*.suo
+*.user
+*.chache
+*.cachefile
+*.Debug
+
+~*
+
+Thumbs.db
+
+.DS_Store
+*.DS_Store
+
+bgm.mp3
